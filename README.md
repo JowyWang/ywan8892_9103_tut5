@@ -21,3 +21,11 @@ finally I can use git on the VScode
 3. Third Item
 [Link Text](https://www.google.com
 Links to an external site.)
+![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg
+Links to an external site.)
+```
+function helloWorld() {
+console.log("Hello, world!");
+}
+```
+> This is a blockquote.
